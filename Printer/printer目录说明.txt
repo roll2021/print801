@@ -1,0 +1,2 @@
+printer目录下存放的是关于打印机的程序。
+debug，trialproduce，nomal三个目录下面的程序是产品过程中三个阶段的程序。
